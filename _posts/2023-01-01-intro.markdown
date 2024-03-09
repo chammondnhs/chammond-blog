@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Introductions to you"
+date:   2024-03-09
+categories: general
+---
+My name is Craig, and I made a goal to start sharing more of my knowledge this year. I spent the first part of 2023 trying to figure out how. If you know me in other circles, you may have seen me try and fail. This is round 3? Round 4? I am going to try out short blog style posts on random topics. Github pages through jekyll might work.
+
+Before beginning, I feel compelled to write about is what is good information? Why should you read what I have to say? Well, you probably shouldn’t. At least right now, I am not good at this. But, I will get better if I dedicate time and my mind to it. I could start with an appeal to authority and say that I have written code that you almost certainly have used. I worked on 3G, 4G, 5G at Qualcomm, so if you use a cell phone I can almost guarantee my code impacted your life. I worked on ads at Amazon, odds are, I have collected data about you, formed a behavioral profile on you, and served you a targeted ad, at least, if you browse the internet. But, none of that is compelling, do not trust me because of what I have done or what I might do. Critically read and challenge everything I say against your experiences and against the experiences of others. Appeals to authority are interesting, but they are abused time and time again. Good information is information which resonates with your personal experiences, and is backed up by cold-hard facts, or corroborated as others share similar information.
+
+What will I write about? Good question, I honestly do not know the answer. I am a software engineer, so probably some tips and tricks about software. I lead engineering teams and work in corporate software engineering, so expect something there. Crypto is compelling and more people need to learn about it (both good and bad). A personal hobby of mine is gardening, and turns out, I am not too bad. It might be my background in electronics, but I absolutely love Pinball. My goal is to FIRE by 40, so perhaps something on finance? I loathe politics and media, so do not expect anything there. My goal is a post every week or two, but who knows? TLDR; Software, Finance, Crypto, Gardening, Cooking, Pinball, ??
+
+I hope you find my write ups interesting and compelling. Have a topic that you are interested in? Let me know, I can be convinced to write. I have no intent on monetizing content. I want to share information, and believe humanity can progress further together than in silos. With that being said, I do happily accept tips. The easiest way to tip me is to send crypto to `chammond.eth`.
