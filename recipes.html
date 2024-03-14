@@ -1,0 +1,25 @@
+---
+layout: default
+title: Recipes
+---
+
+<div class="recipes">
+  {%- if site.recipes.size > 0 -%}
+    <h2 class="post-list-heading">{{ recipe.list_title | default: "Recipes" }}</h2>
+    <ul class="post-list">
+      {%- for recipe in site.recipes -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ recipe.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ recipe.url | relative_url }}">
+            {{ recipe.title | escape }}
+          </a>
+        </h3>
+          {{ recipe.excerpt }}
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+</div>
