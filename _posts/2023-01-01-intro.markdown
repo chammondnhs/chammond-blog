@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introductions to you"
-date:   2024-03-09
+date:   2023-01-01
 categories: general
 ---
 My name is Craig, and I made a goal to start sharing more of my knowledge this year. I spent the first part of 2023 trying to figure out how. If you know me in other circles, you may have seen me try and fail. This is round 3? Round 4? I am going to try out short blog style posts on random topics. Github pages through jekyll might work.

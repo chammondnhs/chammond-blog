@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Opportunity cost"
+date:   2023-03-10
+categories: software-engineering
+---
+
+As a senior engineer, a question I get asked way too frequently is, what language is the best? Anyone who tells you that language X is the best and you should pick it, has not delivered enough software. Anyway, here are my favorite languages ;). If you need something performant, go with C. If you need something frontend/backend, go with typescript. And if you need something else, like ML or scripts, go with python. But, the truth is, use the right language for the right job. If you are at a tech shop, odds are they have a lot of code in a language, use that language. All of your webserver is in PHP? Don’t try to rewrite, use/learn PHP. Your company gives you 99% of the code you need to run an rpc server in java, go run that rpc server in java (screw you Coral). There are times where it is more efficient to rewrite, but it is rare. Still writing in perl or cobol? It might be time to consider not dedicating more time to the language.

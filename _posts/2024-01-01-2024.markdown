@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Hello 2024"
+date:   2024-01-01
+categories: general
+---
+
+All of the posts from 2023 have estimated dates. Those are discussions I had with mentees and generalized into a short paragraph because they might be useful to others. Some were a 1-1 which I converted to a paragraph, some were emails - but all were real discussions. Basing blogs off of real discussions seems to work better than forcing writing. Many of my prior posts I am deleting and not migrating here, because I dont find them actionable. Lets see if I can do better in 2024?! Here is to a new year!
+
+I did not copy over many of my posts from my hobbies. They were either too general or too specific. Perhaps this year, I can do better. I have a personal site which has recipes, I will try to merge that in here. I also have a personal site which has how to play a handful of pinball machines, Ill try to merge that in here as well. This static site is neat. The more I try use jekyll, the less I like it. Maybe its ruby? But, all things considered it does a decent job out of the box and is saving me time.
