@@ -6,7 +6,7 @@ tags:
 ---
 
 # Easy
-Shoot up the middle which will raise ball to upper play field. Toggle between the lower and upper shots (whichever is lit). This is the safest way to play.
+(preferred) Shoot up the middle which will raise ball to upper play field. Toggle between the lower and upper shots (whichever is lit). This is the safest way to play.
 
 # Medium
 Qualify locks by hitting targets on either side of middle shot, then shooting middle shot.

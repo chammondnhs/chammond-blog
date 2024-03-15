@@ -6,7 +6,7 @@ tags:
 ---
 
 # Easy
-Shoot the center target to kill the castle. Repeat.
+(preferred) Shoot the center target to kill the castle. Repeat.
 
 # Medium
 Shoot a shot 3 times to light a multiball. Use multiball to destroy castle. Shoot the hole to left of castle for multiball. Use multiball to destroy castle.

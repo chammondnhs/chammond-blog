@@ -12,7 +12,7 @@ Light dinosaur, then catch it. This lights control room, shoot the C shot and ch
 Light dinosaur, then catch it. Shoot all of the blue drop targets to light the supply drop, collecting supply drop lights 2x scoring. Enable 2x scoring on the control room and choose system boot. Shoot the spinner and combo into upper loop or tower for ~30M x2.
 
 # Hard
-I own this table, are you ready? Even if you do half of this you will have 300M+ - this will let you break the billion mark before hitting visitor center.
+(preferred) I own this table, are you ready? Even if you do half of this you will have 300M+ - this will let you break the billion mark before hitting visitor center.
 
 1/ Light dinosaur on the left. Start the paddock.
 2/ Hit t-rex to bring multiball into first paddock. We dont care about multiball. Catch the dinos then do the standup targets. If you finished that then go for perfect paddock rescues before playing multiball - its not worth much even if you build it up or super.
