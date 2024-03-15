@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "template"
+title:  "Adams Family"
 categories: pinball
 tags: 
 ---

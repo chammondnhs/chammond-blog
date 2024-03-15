@@ -5,7 +5,7 @@ title: Pinball machines
 
 <div class="pinballs">
   {%- if site.pinballs.size > 0 -%}
-    <h2 class="post-list-heading">{{ pinballs.list_title | default: "Pinball games" }}</h2>
+    <h2 class="post-list-heading">{{ pinballs.list_title | default: "Pinball tips" }}</h2>
     <ul class="post-list">
       {%- for pinball in site.pinballs -%}
       {%- if pinball.title != "template" -%}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "template"
+title:  "ACDC"
 categories: pinball
 tags: stern
 ---

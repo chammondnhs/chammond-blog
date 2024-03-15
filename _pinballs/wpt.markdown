@@ -2,7 +2,7 @@
 layout: post
 title:  "World poker tour"
 categories: pinball
-tags: ??
+tags: 
 ---
 
 # Easy

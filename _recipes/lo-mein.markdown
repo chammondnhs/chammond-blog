@@ -7,6 +7,7 @@ tags: dinner, noodles, chinese
 ---
 
 # About
+An american version of lo-mein. Its not quite like what you get at a chinese place, but its decent.
 
 # Ingrediants
 - Half pack rice noodles

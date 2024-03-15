@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "template"
+title:  "Led Zepellin"
 categories: pinball
 tags: stern
 ---

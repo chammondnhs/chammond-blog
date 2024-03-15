@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "template"
+title:  "Eight ball"
 categories: pinball
-tags: stern
+tags: classic
 ---
 
 # Easy

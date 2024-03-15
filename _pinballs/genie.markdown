@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "template"
+title:  "Genie"
 categories: pinball
 tags: stern
 ---

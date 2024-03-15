@@ -2,7 +2,7 @@
 layout: post
 title:  "Black knight"
 categories: pinball
-tags: 
+tags: classic
 ---
 
 # Easy
