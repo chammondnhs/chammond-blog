@@ -1,0 +1,25 @@
+---
+layout: default
+title: Pinball machines
+---
+
+<div class="pinballs">
+  {%- if site.pinballs.size > 0 -%}
+    <h2 class="post-list-heading">{{ pinballs.list_title | default: "Pinball games" }}</h2>
+    <ul class="post-list">
+      {%- for pinball in site.pinballs -%}
+      {%- if pinball.title != "template" -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <h3>
+          <a class="post-link" href="{{ pinball.url | relative_url }}">
+            {{ pinball.title | escape }}
+          </a>
+        </h3>
+      </li>
+      {%- endif -%}
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+</div>

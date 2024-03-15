@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Paint in black"
+title:  "Paint it black"
 date:   2023-03-30
 categories: software-engineering
 ---
