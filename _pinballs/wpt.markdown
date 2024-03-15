@@ -11,5 +11,6 @@ Not sure on best way to score points, but this is what I do. Shoot the left and 
 # Medium
 # Hard
 # General notes
+Skill shot - time the plunge so it advances the hand
 
 
